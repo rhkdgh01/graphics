@@ -1,5 +1,4 @@
-# 2D平台跳跃游戏
-一个能帮助初学者学习2D平台跳跃游戏开发的Unity教程
+# 哪腔磐 弊贰侨胶苞力
+2D 敲阀器赣 霸烙 父甸扁
 
-# 2D-Platform
-A 2D-Platform Tutotial can help the Unity beginner to learn more Unity technology.
+
